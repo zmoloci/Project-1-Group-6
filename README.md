@@ -95,17 +95,32 @@ https://www.census.gov/data/developers/data-sets/decennial-census.html
 
 #### Analysis Question
 
-Is population growing?
+**Categorize Counties by Population Density**
+  - population
+  - area (square mile)
+  - or just Population Density if available
 
-Is population growth higher/lower than national/state average?
+**Is population growing?**
+  - population by county (2000, 2010, 2020 or even by year if easily accessible)
 
-Is salary increasing or decreasing?
+**Is population growth higher/lower than national/state average?**
+  - find data for pop growth on national/state scale over similar period as above (county scale)
 
-Does this differ from national/state averages?
+**Is salary increasing or decreasing (Top 5 Industry over a sample of counties - low density, high density)?**
+  - mean, median salary by county
+  - If data is only available by industry, then how do we calculate whole population level salary?
+  - Do we just use median salary over top 5 industries in each county?
+    - 
 
-Does this effect correlate to each county's intial / final population density?
+**Does this differ from national/state averages?**
+
+**Does this effect correlate to each county's intial / final population density?**
   - correlation matrix (graph)
   
+  
+##Before Class on Monday let's touch base on where we are for Assignment 6
+ - Are we stuck? Errors?
+ - Zac has tutoring session Monday night at 10pm and can try to work through some errors, roadblocks, etc. related to Asssignment 6##
 
 
 
@@ -122,6 +137,15 @@ Also, scatterplot with unique markers based on popdensity bin (very low = triang
 Bar graph of population by county by year (2000, 2010, 2020) grouped by 2000 popdensity bin (very low, low, medium, high, very high)
 Bar graph of population change rate (pop change / years) by county (2010 and 2020) by popdensity bin
 
+
+
+#### Project Plan
+
+Before Sunday Feb. 6 meeting (8pm EST):
+ - Lailah try to make a list of variables that we will need to pull from the APIs that we have decided on or others
+
+During day Monday-Thurs
+  - Zac/Priya building code to pull variables/data that Lailah has highlighted
 
 
 
