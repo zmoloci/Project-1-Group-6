@@ -1,8 +1,11 @@
 # Project-1-Group-6
-Data Analytics Bootcamp: Project 1
+# Data Analytics Bootcamp: Project 1
 
-Group 6
 
+## Group 6
+
+
+### DAY 0
 Project Ideas:
 
 Lailah: Using: statcan.gc.ca (CPI), https://api.canada.ca/en/homepage
@@ -43,6 +46,10 @@ Priya:
 https://www.kaggle.com/
 https://www.census.gov/data/developers/data-sets/decennial-census.html
 
+
+
+
+### DAY 0
 
 
 
