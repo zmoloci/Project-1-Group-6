@@ -10,7 +10,7 @@ Lailah: Using: statcan.gc.ca (CPI), https://api.canada.ca/en/homepage
 
 
 
-Zac: Using: https://www.census.gov/data/developers/data-sets/decennial-census.html for Calfornia (or all states??)
+Zac: Using: https://www.census.gov/data/developers/data-sets/decennial-census.html for New York State? (or all states??)
 
 How has the population density of counties changed over time (2000-2020)?
 Do low popden counties’ pop increase at a relatively high rate vs. high popden counties?
