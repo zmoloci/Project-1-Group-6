@@ -118,9 +118,7 @@ https://www.census.gov/data/developers/data-sets/decennial-census.html
   - correlation matrix (graph)
   
   
-##Before Class on Monday let's touch base on where we are for Assignment 6
- - Are we stuck? Errors?
- - Zac has tutoring session Monday night at 10pm and can try to work through some errors, roadblocks, etc. related to Asssignment 6##
+
 
 
 
@@ -141,11 +139,15 @@ Bar graph of population change rate (pop change / years) by county (2010 and 202
 
 #### Project Plan
 
-Before Sunday Feb. 6 meeting (8pm EST):
- - Lailah try to make a list of variables that we will need to pull from the APIs that we have decided on or others
+## Before Class on Monday let's touch base on where we are for Assignment 6
+ - Are we stuck? Errors?
+ - Zac has tutoring session Monday night at 10pm and can try to work through some errors, roadblocks, etc. related to Asssignment 6##
 
-During day Monday-Thurs
-  - Zac/Priya building code to pull variables/data that Lailah has highlighted
+### Before Sunday Feb. 6 meeting (8pm EST):
+ - **Lailah** try to make a list of variables (*Based on Analysis Question section above*) that we will need to pull from the APIs that we have decided on or others
+
+### During day Monday-Thurs
+  - **Zac/Priya** work together building code to pull variables/data that Lailah has highlighted
 
 
 
