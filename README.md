@@ -47,40 +47,67 @@ https://www.kaggle.com/
 https://www.census.gov/data/developers/data-sets/decennial-census.html
 
 
-
+---
 
 ### DAY 1
 
 #### Forecasting Population Growth in New York State by County: "Moving to the country?"
 
-- How does initial population density affect growth rates?
-- Who is interested in this data?
-  - Car dealerships: 
+- **How does initial population density affect growth rates?**
+- **Who is interested in this data?**
+  - **Car dealerships:**
     - opening a new location?
     - Car ownership data?
     - Salary data?
     
-  - Realtors: 
+  - **Realtors:** 
     - Where is the next hot market?
     - Housing price increase hot spots?
     - Markets in decline? Pricing/availability decline?
     - Which type of dwelling in most popular/most needed (Single-detached, semi-detached, condo, etc.)?
     - Demographic changes (more young families moving in vs. retirees?)
     
-  - Retailers/Grocers: 
+  - **Retailers/Grocers:**
     - Which county needs a(nother) strip mall? 
     - Food terminals? 
     - Distance from nearest shipping ports? 
     - Transportation infrastructure data?
     
-  - Employees: Where to start our family? Could include crime data, housing prices, poverty statistics.
+  - **Employees:** 
+    - Where to start our family? 
+    - Salary/revenue averages within a county.
+    - Could include crime data, housing prices, poverty statistics.
   
 
 #### Data Sources
 
 - Decennial Census (2020, 2010, 2000) from census.gov (https://www.census.gov/data/developers/data-sets/decennial-census.html)
+
 - Economic Census (2017, 2012, 2007, 2002) from census.gov (https://www.census.gov/data/developers/data-sets/economic-census.html)
--  
+  - *The Economic Census is the official measure of the Nation’s businesses and economy. Conducted every five years, the survey serves as the statistical benchmark for current economic activity, such as, the Gross Domestic Product and the Producer Price Index.*
+  - *Data collected from individual business establishments on physical location, type of business activity (industry), employment, payroll, and revenue by type of service or product and more provides vital information on the changes in the ownership and organizational structure of American Businesses and industries. Some inquiries apply to certain industries but not others, such as, materials consumed and franchising.*
+  - *Economic Census data is important to everyone. Examples include businesses using the data to make decisions about where to locate, local communities use the data to attract new businesses and individuals use the data to identify emerging markets.*
+
+- Annual Survey of Entrepreneurs from census.gov (https://www.census.gov/data/developers/data-sets/ase.html)
+  - **Company Summary.**  *Provides data for employer businesses by sector, sex, ethnicity, race, veteran status, years in business, receipts size of firm, and employment size of firm for the U.S., states, and the fifty most populous metropolitan statistical areas (MSAs).*
+  - **Characteristics of Businesses.**  *Provides data for employer firms by sector, sex, ethnicity, race, veteran status, and years in business for the U.S., states, and fifty most populous MSAs, including detailed business characteristics.*
+  - **Characteristics of Business Owners.**  *Provides data for owners of respondent employer firms by sector, sex, ethnicity, race, veteran status, and years in business for the U.S., states, and top fifty most populous MSAs, including detailed owner characteristics.*
+
+#### Analysis Question
+
+Is population growing?
+
+Is population growth higher/lower than national/state average?
+
+Is salary increasing or decreasing?
+
+Does this differ from national/state averages?
+
+Does this effect correlate to each county's intial / final population density?
+  - correlation matrix (graph)
+  
+
+
 
 
 #### Visualizations
@@ -94,6 +121,8 @@ Heat map style plot for median salary by county over period 2000-2020
 Also, scatterplot with unique markers based on popdensity bin (very low = triangle, etc.)
 Bar graph of population by county by year (2000, 2010, 2020) grouped by 2000 popdensity bin (very low, low, medium, high, very high)
 Bar graph of population change rate (pop change / years) by county (2010 and 2020) by popdensity bin
+
+
 
 
 
