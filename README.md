@@ -51,5 +51,49 @@ https://www.census.gov/data/developers/data-sets/decennial-census.html
 
 ### DAY 1
 
+#### Forecasting Population Growth in New York State by County: "Moving to the country?"
+
+- How does initial population density affect growth rates?
+- Who is interested in this data?
+  - Car dealerships: 
+    - opening a new location?
+    - Car ownership data?
+    - Salary data?
+    
+  - Realtors: 
+    - Where is the next hot market?
+    - Housing price increase hot spots?
+    - Markets in decline? Pricing/availability decline?
+    - Which type of dwelling in most popular/most needed (Single-detached, semi-detached, condo, etc.)?
+    - Demographic changes (more young families moving in vs. retirees?)
+    
+  - Retailers/Grocers: 
+    - Which county needs a(nother) strip mall? 
+    - Food terminals? 
+    - Distance from nearest shipping ports? 
+    - Transportation infrastructure data?
+    
+  - Employees: Where to start our family? Could include crime data, housing prices, poverty statistics.
+  
+
+#### Data Sources
+
+- Decennial Census (2020, 2010, 2000) from census.gov (https://www.census.gov/data/developers/data-sets/decennial-census.html)
+- Economic Census (2017, 2012, 2007, 2002) from census.gov (https://www.census.gov/data/developers/data-sets/economic-census.html)
+-  
+
+
+#### Visualizations
+
+
+Include:
+Heat map style plot for pop. increase rates by county over period 2000-2020
+Heat map style plot for average salary by county over period 2000-2020
+Also, scatterplot with unique markers based on popdensity bin (very low = triangle, etc.)
+Heat map style plot for median salary by county over period 2000-2020
+Also, scatterplot with unique markers based on popdensity bin (very low = triangle, etc.)
+Bar graph of population by county by year (2000, 2010, 2020) grouped by 2000 popdensity bin (very low, low, medium, high, very high)
+Bar graph of population change rate (pop change / years) by county (2010 and 2020) by popdensity bin
+
 
 
