@@ -149,6 +149,9 @@ Bar graph of population change rate (pop change / years) by county (2010 and 202
 ### During day Monday-Thurs
   - **Zac/Priya** work together building code to pull variables/data that Lailah has highlighted
 
+
+### DAY 2
+
 ##Lailah:  Sources found so far##
 >NY state population per year, entire state of NY:
 
@@ -193,4 +196,35 @@ https://www.statista.com/statistics/205974/median-household-income-in-new-york/
 >might be useful:
 
 https://datausa.io/profile/geo/new-york#demographics
+
+
+### DAY 3
+
+Quickfacts - Population? and Population Density
+https://www.census.gov/quickfacts/fact/table/albanycitynewyork,newyorkcitynewyork,NY/POP060220
+
+2020 tab25.xls Source
+https://www2.census.gov/programs-surveys/decennial/2000/phc/phc-t-14/tab25.pdf
+
+
+##Census API:
+
+
+
+####2020 Main Page
+https://www.census.gov/data/developers/data-sets/decennial-census.2000.html#list-tab-YIGY5LAGROA1WMY05H
+####2020 Variables
+https://api.census.gov/data/2020/dec/pes/variables.html
+
+
+####2010 Main Page
+https://www.census.gov/data/developers/data-sets/decennial-census.2010.html#list-tab-EWTVDOJMWVG6UBMAAI
+####2010 Variables
+https://api.census.gov/data/2010/dec/sf1/variables.html
+
+####2000 Main Page
+https://www.census.gov/data/developers/data-sets/decennial-census.2000.html#list-tab-YIGY5LAGROA1WMY05H
+####2000 Variables
+https://api.census.gov/data/2000/dec/sf1/variables.html
+
 
