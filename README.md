@@ -147,6 +147,48 @@ Before Sunday Feb. 6 meeting (8pm EST):
 During day Monday-Thurs
   - Zac/Priya building code to pull variables/data that Lailah has highlighted
 
+##Lailah:  Sources found so far##
+>NY state population per year, entire state of NY:
+
+https://www.macrotrends.net/states/new-york/population#:~:text=The%20population%20of%20New%20York,a%200.25%25%20decline%20from%202017.
 
 
+>NY state population per county
+
+2010 & 2020(image) estimate only for years in between:
+
+https://www.nysac.org/files/NYSAC%20Population%20Report%202020.pdf
+
+2021:
+https://www.newyork-demographics.com/counties_by_population
+
+2023:
+
+https://worldpopulationreview.com/states/new-york/counties
+
+>NY state land area in square miles, per county with population nd popdensity 
+2010:
+
+https://www.health.ny.gov/statistics/vital_statistics/2018/table02.htm
+
+Unknown year:
+
+http://www.usa.com/rank/new-york-state--population-density--county-rank.htm?hl=&hlst=&wist=&yr=&dis=&sb=DESC&plow=&phigh=&ps=
+
+>Average salary in NY state in 2021:
+
+https://www.statista.com/statistics/305766/new-york-annual-pay/
+
+Median household income in NY state
+2017-2021:
+https://www.census.gov/quickfacts/fact/table/NY/INC110221
+
+2009-2021:
+
+https://www.statista.com/statistics/205974/median-household-income-in-new-york/
+
+
+>might be useful:
+
+https://datausa.io/profile/geo/new-york#demographics
 
