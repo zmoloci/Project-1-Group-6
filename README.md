@@ -216,18 +216,18 @@ https://www2.census.gov/programs-surveys/decennial/2000/phc/phc-t-14/tab25.pdf
 
 
 
-####2020 Main Page
+#### 2020 Main Page
 https://www.census.gov/data/developers/data-sets/decennial-census.2000.html#list-tab-YIGY5LAGROA1WMY05H
 ####2020 Variables
 https://api.census.gov/data/2020/dec/pes/variables.html
 
 
-####2010 Main Page
+#### 2010 Main Page
 https://www.census.gov/data/developers/data-sets/decennial-census.2010.html#list-tab-EWTVDOJMWVG6UBMAAI
 ####2010 Variables
 https://api.census.gov/data/2010/dec/sf1/variables.html
 
-####2000 Main Page
+#### 2000 Main Page
 https://www.census.gov/data/developers/data-sets/decennial-census.2000.html#list-tab-YIGY5LAGROA1WMY05H
 ####2000 Variables
 https://api.census.gov/data/2000/dec/sf1/variables.html
@@ -237,7 +237,7 @@ https://api.census.gov/data/2000/dec/sf1/variables.html
 
 ### Day 4
 
-####Updated Data Sources:
+#### Updated Data Sources:
 
 - population by county 1970-2021
     - API Endpoint from https://data.ny.gov/Government-Finance/Annual-Population-Estimates-for-New-York-State-and/krt9-ym2k/explore/query/SELECT%20%60fips_code%60%2C%20%60geography%60%2C%20%60year%60%2C%20%60program_type%60%2C%20%60population%60/page/filter
