@@ -97,6 +97,8 @@ https://www.census.gov/data/developers/data-sets/decennial-census.html
 
 **Categorize Counties by Population Density**
   - population
+    - API Endpoint from https://data.ny.gov/Government-Finance/Annual-Population-Estimates-for-New-York-State-and/krt9-ym2k/explore/query/SELECT%20%60fips_code%60%2C%20%60geography%60%2C%20%60year%60%2C%20%60program_type%60%2C%20%60population%60/page/filter
+    (https://data.ny.gov/resource/krt9-ym2k.json?$query=SELECT%20%60fips_code%60%2C%20%60geography%60%2C%20%60year%60%2C%20%60program_type%60%2C%20%60population%60)
   - area (square mile)
   - or just Population Density if available
 
@@ -203,6 +205,9 @@ https://datausa.io/profile/geo/new-york#demographics
 Quickfacts - Population? and Population Density
 https://www.census.gov/quickfacts/fact/table/albanycitynewyork,newyorkcitynewyork,NY/POP060220
 
+  - Will give us Pop density (pop./sq mile), land area (sq mile) for 2010 and 2020
+  - Need to find Pop density (pop./sq mile), land area (sq mile)
+
 2020 tab25.xls Source
 https://www2.census.gov/programs-surveys/decennial/2000/phc/phc-t-14/tab25.pdf
 
@@ -227,4 +232,37 @@ https://www.census.gov/data/developers/data-sets/decennial-census.2000.html#list
 ####2000 Variables
 https://api.census.gov/data/2000/dec/sf1/variables.html
 
+
+
+
+### Day 4
+
+####Updated Data Sources:
+
+- population by county 1970-2021
+    - API Endpoint from https://data.ny.gov/Government-Finance/Annual-Population-Estimates-for-New-York-State-and/krt9-ym2k/explore/query/SELECT%20%60fips_code%60%2C%20%60geography%60%2C%20%60year%60%2C%20%60program_type%60%2C%20%60population%60/page/filter
+    (https://data.ny.gov/resource/krt9-ym2k.json?$query=SELECT%20%60fips_code%60%2C%20%60geography%60%2C%20%60year%60%2C%20%60program_type%60%2C%20%60population%60)
+
+- land area by county (year)
+  - https://www.health.ny.gov/statistics/vital_statistics/2018/table02.htm
+  - http://www.usa.com/rank/new-york-state--land-area--county-rank.htm?yr=3000&dis=&wist=&plow=&phigh=
+
+- PERSONAL Income by County 1969-2021
+  - Albany County example: https://fred.stlouisfed.org/series/PI36001#
+  - Need to dig into FRED API documentation (https://fred.stlouisfed.org/docs/api/fred)
+
+- Per Capita Personal Income by County 1969-2021
+  - Albany County example: https://fred.stlouisfed.org/series/PCPI36001#
+  - Need to dig into FRED API documentation (https://fred.stlouisfed.org/docs/api/fred)
+  - Also, compare this data to Personal Income by County (above) in combination with our population values to make sure they align or comment why they may not.
+
+- State and National Data to compare the above
+  - Is county above/below national average re: Income, Pop Dens., etc.
+  - Is county above/below state average re: Income, Pop Dens., etc.
+
+
+- Urban vs Rural populations/ratios as foundation for 5 pop. density categories/bins
+
+- Other data?
+  - crime, vacancy, etc.
 
