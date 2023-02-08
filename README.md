@@ -286,7 +286,7 @@ https://api.census.gov/data/2000/dec/sf1/variables.html
 - Compile CSV data that has been collected (Annual population estimates, land area by county, )
 
 - National and State level data for:
-  - Annual Median Household Income
+  - Annual Median Household Income https://www.deptofnumbers.com/income/new-york/
   - Annual Per Capita Personal Income
 
 #### Visualizations
