@@ -242,19 +242,24 @@ https://api.census.gov/data/2000/dec/sf1/variables.html
 - population by county 1970-2021
     - API Endpoint from https://data.ny.gov/Government-Finance/Annual-Population-Estimates-for-New-York-State-and/krt9-ym2k/explore/query/SELECT%20%60fips_code%60%2C%20%60geography%60%2C%20%60year%60%2C%20%60program_type%60%2C%20%60population%60/page/filter
     (https://data.ny.gov/resource/krt9-ym2k.json?$query=SELECT%20%60fips_code%60%2C%20%60geography%60%2C%20%60year%60%2C%20%60program_type%60%2C%20%60population%60)
+    - We already have csv: "Annual_Population_Estimates_for_New_York_State_and_Counties__Beginning_1970.csv"
 
 - land area by county (year)
   - https://www.health.ny.gov/statistics/vital_statistics/2018/table02.htm
   - http://www.usa.com/rank/new-york-state--land-area--county-rank.htm?yr=3000&dis=&wist=&plow=&phigh=
 
-- PERSONAL Income by County 1969-2021
+<!-- - PERSONAL Income by County 1969-2021
   - Albany County example: https://fred.stlouisfed.org/series/PI36001#
   - Need to dig into FRED API documentation (https://fred.stlouisfed.org/docs/api/fred)
 
 - Per Capita Personal Income by County 1969-2021
   - Albany County example: https://fred.stlouisfed.org/series/PCPI36001#
   - Need to dig into FRED API documentation (https://fred.stlouisfed.org/docs/api/fred)
-  - Also, compare this data to Personal Income by County (above) in combination with our population values to make sure they align or comment why they may not.
+  - Also, compare this data to Personal Income by County (above) in combination with our population values to make sure they align or comment why they may not. --> -->
+
+- Median Household Income by County 2000-2021
+  - Albany County example: https://fred.stlouisfed.org/series/MHINY36001A052NCEN
+  - Need to dig into FRED API documentation (https://fred.stlouisfed.org/docs/api/fred)
 
 - State and National Data to compare the above
   - Is county above/below national average re: Income, Pop Dens., etc.
@@ -266,3 +271,31 @@ https://api.census.gov/data/2000/dec/sf1/variables.html
 - Other data?
   - crime, vacancy, etc.
 
+
+
+### Day 5
+
+#### Work plan:
+
+### Priya and Zac
+- FRED API data
+  - Median Household Income by County
+  - Per Capita Personal Income by County
+
+### Lailah
+- Compile CSV data that has been collected (Annual population estimates, land area by county, )
+
+- National and State level data for:
+  - Annual Median Household Income
+  - Annual Per Capita Personal Income
+
+#### Visualizations
+
+
+Updated Visualizations:
+Heat map style plot for pop. increase rates by county over period 2000-2021 (1 per 5 years)
+Heat map style plot for population density by county over period 2000-2021 (1 per 5 years)
+Heat map style plot for median household income by county over period 2000-2021 (1 per 5 years)
+Scatterplot with unique markers based on popdensity bin (very low = triangle, etc.)
+Bar graph of population by county by year (2000, 2010, 2020) grouped by 2000 popdensity bin (very low, low, medium, high, very high)
+Bar graph of population change rate (pop change / years) by county (2010 and 2020) by popdensity bin
