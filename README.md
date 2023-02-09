@@ -228,3 +228,6 @@ https://www.census.gov/data/developers/data-sets/decennial-census.2000.html#list
 https://api.census.gov/data/2000/dec/sf1/variables.html
 
 
+day 3:
+api for population : https://fred.stlouisfed.org/docs/api/fred/
+
