@@ -315,13 +315,19 @@ Bar graph of population change rate (pop change / years) by county (2010 and 202
 
 
 Updated Visualizations:
- - DOES NOT req. Income Data
-Heat map style plot or gradient markers (or shape file based on county borders) for pop. increase rates by county over period 2000-2021 (1 per 5 years)
-Heat map style plot or gradient markers (or shape file based on county borders) for population density by county over period 2000-2021 (1 per 5 years)
-Scatterplot with unique markers based on popdensity bin (very low = triangle, etc.)
-Bar graph of population by county by year (2000, 2010, 2020) grouped by 2000 popdensity bin (very low, low, medium, high, very high)
-Bar graph of population change rate (pop change / years) by county (2010 and 2020) by popdensity bin
+  - DOES NOT req. Income Data
 
-- Requires Income Data
-Heat map style plot or gradient markers (or shape file based on county borders) for median household income by county over period 2000-2021 (1 per 5 years) and Per Capita Personal Income
+LAILAH
+- Heat map style plot or gradient markers (or shape file based on county borders) for pop. increase rates by county over period 2000-2021 (1 per 5 years)
+- Heat map style plot or gradient markers (or shape file based on county borders) for population density by county over period 2000-2021 (1 per 5 years)
+
+ZAC
+- Scatterplot with unique markers based on popdensity bin (very low = triangle, etc.)
+- Bar graph of population by county by year (2000, 2010, 2020) grouped by 2000 popdensity bin (very low, low, medium, high, very high)
+- Bar graph of population change rate (pop change / years) by county (2010 and 2020) by popdensity bin
+
+PRIYA
+- Pull API Income Data (-Per Capita Personal or Personal Income- and Median Household by County)
+  - Requires Income Data
+- Heat map style plot or gradient markers (or shape file based on county borders) for median household income by county over period 2000-2021 (1 per 5 years) and Per Capita Personal Income
 
