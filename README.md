@@ -5,7 +5,7 @@
 ## Group 6
 
 
-### DAY 0
+### DAY 0 (Jan. 30th, 2023)
 Project Ideas:
 
 Lailah: Using: statcan.gc.ca (CPI), https://api.canada.ca/en/homepage
@@ -49,7 +49,7 @@ https://www.census.gov/data/developers/data-sets/decennial-census.html
 
 ---
 
-### DAY 1
+### DAY 1 (Jan. 31st, 2023)
 
 #### Forecasting Population Growth in New York State by County: "Moving to the country?"
 
@@ -152,9 +152,9 @@ Bar graph of population change rate (pop change / years) by county (2010 and 202
   - **Zac/Priya** work together building code to pull variables/data that Lailah has highlighted
 
 
-### DAY 2
+### DAY 2 (Feb. 2nd, 2023)
 
-##Lailah:  Sources found so far##
+## Lailah:  Sources found so far ##
 >NY state population per year, entire state of NY:
 
 https://www.macrotrends.net/states/new-york/population#:~:text=The%20population%20of%20New%20York,a%200.25%25%20decline%20from%202017.
@@ -200,7 +200,7 @@ https://www.statista.com/statistics/205974/median-household-income-in-new-york/
 https://datausa.io/profile/geo/new-york#demographics
 
 
-### DAY 3
+### DAY 3 (Feb. 5th, 2023)
 
 Quickfacts - Population? and Population Density
 https://www.census.gov/quickfacts/fact/table/albanycitynewyork,newyorkcitynewyork,NY/POP060220
@@ -235,7 +235,7 @@ https://api.census.gov/data/2000/dec/sf1/variables.html
 
 
 
-### Day 4
+### Day 4 (Feb. 6th, 2023)
 
 #### Updated Data Sources:
 
@@ -273,7 +273,7 @@ https://api.census.gov/data/2000/dec/sf1/variables.html
 
 
 
-### Day 5
+### Day 5 (Feb. 7th, 2023)
 
 #### Work plan:
 
@@ -298,6 +298,26 @@ Updated Visualizations:
 Heat map style plot for pop. increase rates by county over period 2000-2021 (1 per 5 years)
 Heat map style plot for population density by county over period 2000-2021 (1 per 5 years)
 Heat map style plot for median household income by county over period 2000-2021 (1 per 5 years)
+Scatterplot with unique markers based on popdensity bin (very low = triangle, etc.)
+Bar graph of population by county by year (2000, 2010, 2020) grouped by 2000 popdensity bin (very low, low, medium, high, very high)
+Bar graph of population change rate (pop change / years) by county (2010 and 2020) by popdensity bin
+
+### Day 6 (Feb. 8th, 2023)
+
+
+
+
+
+
+### Day 7 (Feb. 9th, 2023)
+
+#### Visualizations
+
+
+Updated Visualizations:
+Heat map style plot or gradient markers (or shape file based on county borders) for pop. increase rates by county over period 2000-2021 (1 per 5 years)
+Heat map style plot or gradient markers (or shape file based on county borders) for population density by county over period 2000-2021 (1 per 5 years)
+Heat map style plot or gradient markers (or shape file based on county borders) for median household income by county over period 2000-2021 (1 per 5 years)
 Scatterplot with unique markers based on popdensity bin (very low = triangle, etc.)
 Bar graph of population by county by year (2000, 2010, 2020) grouped by 2000 popdensity bin (very low, low, medium, high, very high)
 Bar graph of population change rate (pop change / years) by county (2010 and 2020) by popdensity bin
