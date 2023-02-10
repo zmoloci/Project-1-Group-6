@@ -284,11 +284,13 @@ https://api.census.gov/data/2000/dec/sf1/variables.html
 
 ### Lailah
 - Compile CSV data that has been collected (Annual population estimates, land area by county, )
-
+http://www.usa.com/rank/new-york-state--population-density--county-rank.htm?hl=&hlst=&wist=&yr=&dis=&sb=DESC&plow=&phigh=&ps=
 - National and State level data for:
   - Annual Median Household Income https://www.deptofnumbers.com/income/new-york/
   - Annual Per Capita Personal Income
-
+  county level per year-https://fred.stlouisfed.org/release/tables?rid=175&eid=267974&od=2000-01-01#
+  -Annual Gross income per salary bracket https://www.irs.gov/statistics/soi-tax-stats-adjusted-gross-income-agi-percentile-data-by-state
+  -Unemployemnt rate https://fred.stlouisfed.org/graph/?g=FfDw
 #### Visualizations
 
 
