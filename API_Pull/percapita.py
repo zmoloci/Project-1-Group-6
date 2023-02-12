@@ -11,7 +11,7 @@ dates_list = dates.tolist()
 for year in dates_list:
     url_data = "https://api.stlouisfed.org/geofred/regional/data?api_key=d6c9f833698c931c8e63dd3973b55579&series_group=882&date={0}&region_type=state&units=Dollars&frequency=a&season=NSA&file_type=json".format(
         year)
-    res = requests.get(url_data)
+    sre = requests.get(url_data)
     s = res.json()
     fin = s['meta']['data'][year]
     tdf = pd.DataFrame(fin)
