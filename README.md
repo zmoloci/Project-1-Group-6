@@ -25,11 +25,19 @@
 
 
 
-
 #### How is the population distributed in NY State?
-<img width="919" alt="NY_percapitaincome_2020_vs_1970_PopDens" src="https://user-images.githubusercontent.com/120351966/220523681-b76beb47-3514-4906-9164-4b638c422f4d.png">
 
-![Table 1 - 2020 Population Density and Land Area by County](https://user-images.githubusercontent.com/120351966/220524006-547fb36f-aebf-40c1-ad93-c1c61d8b8294.png)
+
+<img width="918" alt="Table 1 - 1970 Population Density and Land Area by County" src="https://user-images.githubusercontent.com/120351966/220817490-bcc90dff-94ca-4b59-8b0a-f2687bafe62a.png">
+<img width="918" alt="Table 1 - 2020 Population Density and Land Area by County" src="https://user-images.githubusercontent.com/120351966/220817503-4694fd01-6c83-4e0d-884f-6142eb4c26eb.png">
+<img width="635" alt="bin4_histogram" src="https://user-images.githubusercontent.com/120351966/220822155-a3b33435-201b-47ad-8b9e-d5b24f8ed751.png">
+
+<img width="918" alt="Table 1 - 1970 Population Density and Land Area by County - With BIN4" src="https://user-images.githubusercontent.com/120351966/220817519-dc656660-1929-4751-a4de-8c6a52d7419f.png">
+<img width="918" alt="Table 1 - 2020 Population Density and Land Area by County - With BIN4" src="https://user-images.githubusercontent.com/120351966/220817533-295e41d8-664f-47ad-8252-214b695a10f5.png">
+
+
+<img width="749" alt="Pop_den_County_Map_2020" src="https://user-images.githubusercontent.com/120351966/220798793-4e833f99-1893-4758-8185-5f6372e6341f.png">
+
 
 
 
@@ -40,22 +48,27 @@
 
 
 #### Does population density affect income?
+![2020_NY_County_PCI](https://user-images.githubusercontent.com/120351966/220819106-5b1ec52c-6f4c-491e-823a-6e3ea9191a51.png)
+
+![2020_NY_County_PCI_sort_by_1970_popdens](https://user-images.githubusercontent.com/120351966/220806410-9512d917-822e-4a73-8cd0-5f63ab1c45e8.png)
 
 
 <img width="919" alt="NY_percapitaincome_2020_vs_1970_PopDens" src="https://user-images.githubusercontent.com/120351966/220523742-a27b8469-cfbb-4ee6-b9aa-84955050d5dd.png">
 
 
-<img width="796" alt="1970_popdens_histogram_bin4" src="https://user-images.githubusercontent.com/120351966/220523163-f81b2f6d-7eb6-4ce0-b2c9-308b5ecddc0b.png">
-
-![Table 1 - 1970 Population Density and Land Area by County - With BIN4](https://user-images.githubusercontent.com/120351966/220524333-da041ef8-9ac1-4ca2-8ff2-8a6bb1d4a065.png)
-
-
-<img width="1136" alt="popden_mapplot_bin4" src="https://user-images.githubusercontent.com/120351966/220523532-16eeb827-f37c-48c4-9db0-c4302699a66c.png">
 
 
 
+![NY_Albany_Pop_Income_Growth](https://user-images.githubusercontent.com/120351966/220797974-d3c3dc59-fcfc-4fe2-8f55-bef220a18c10.png)
 
+![Albany_County_growth_pc](https://user-images.githubusercontent.com/120351966/220820778-e0621051-4a8a-494c-8657-5788b8b97259.png)
+![NY_growth_pc](https://user-images.githubusercontent.com/120351966/220822303-96d4dd87-691a-4b3d-bd20-099413d7b105.png)
 
+![Albany_growth_correlation](https://user-images.githubusercontent.com/120351966/220820802-3741bad9-c6d4-4450-b88e-13e6fc590ba6.PNG)
+![NYstate_growth_correlation](https://user-images.githubusercontent.com/120351966/220822429-dd20c5b1-0020-4b5d-9e41-8252cfa6df82.PNG)
+
+![Highest_pop_growthcounty_cor](https://user-images.githubusercontent.com/120351966/220822262-c6d7e0a5-ae67-48ea-b3da-2cf0d054fa54.PNG)
+![Lowest_pop_growthcounty_cor](https://user-images.githubusercontent.com/120351966/220822277-d88aea83-f572-4522-a2d1-c52dae4251de.PNG)
 
 ### Conclusion
 
