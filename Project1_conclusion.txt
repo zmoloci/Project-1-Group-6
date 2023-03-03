@@ -1,0 +1,15 @@
+1. Population in New York state is not evenly distributed. According to the latest census in 2020, over 50% of its population is concentrated in
+6 out of the 62 counties.  Kings County-13.54%, Queens County-11.91%, New York County-8.39%, Suffolk County-7.55%, Bronx County-7.29%, 
+& Nassau County-6.91%.
+
+2. According to growth rate percentage results that is common throughout New York state, the r value is just with a range of -0.5 to -0.6.
+This tells us that there is a negative (or inverse) relationship between growth rates of population density & per capita income.  As
+the population increases, we could say that per capita income growth decreases.  However, this is not the case for Saratoga County, which
+has the highest population growth rate.  The r value is 0.97, which means that there is a positive (or direct) relationship between the
+variables.  This could possibly explain why people are moving to this County.  There are a number of factors that could affect this, which
+are not covered in this research.  As we all know, more population means more business.  There could also be a massive inflow of investments
+in this area.
+
+3. As per the chart results comparing 1970 Population density versus 2020 Per Capita income, it gave us an r value of 0.62. Meaning, there is a medium 
+direct or positive relationship between 2020 per capita incoe & 1970 population density. In other words, Counties with higher population density in
+1970 tend to have higher per capita income in 2020.
